@@ -6,6 +6,7 @@
 # The order that dictionaries should appear, in order from highest to lowest
 # priority
 [
+  ./static-dicts/plugin-integrations.json
   ./static-dicts/uni-number-reversals.json
   "${emily-modifiers}/emily-modifiers.py"
   "${emily-symbols}/emily-symbols.py"
