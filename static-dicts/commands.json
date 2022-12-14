@@ -47,8 +47,14 @@
 "HRO*ERD": "{:retro_case:lower_first_char}",
 "*UPD": "{:retro_case:upper_first_word}",
 
-"KA*PS": "{MODE:CAPS}",
 "R*EFT": "{MODE:RESET}",
+"KA*PS": "{MODE:CAPS}",
+"HRO*ERS": "{MODE:LOWER}",
+"TAO*EULT": "{MODE:TITLE}",
+"STPHA*EUBG": "{MODE:SNAKE}",
+"KPH*EL": "{MODE:CAMEL}",
+"K*EB": "{MODE:SET_SPACE:-}",
+"TPHO*FP": "{MODE:SET_SPACE:}",
 
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "PHR*UP": "{PLOVER:LOOKUP}",
