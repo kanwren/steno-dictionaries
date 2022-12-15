@@ -9,6 +9,7 @@ Additional plugins used that aren't (yet) built through Nix:
   - plover-dict-commands
   - plover-stitching
   - plover-emoji
+  - plover-number-format
 - UI:
   - plover-clippy
   - spectra-lexer

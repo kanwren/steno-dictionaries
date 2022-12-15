@@ -1,3 +1,16 @@
 {
-"PHOEPBLG": "{:emoji}"
+"PHOEPBLG": "{:emoji}",
+
+"R*PL": "{:number_format_roman:0:0}",
+"R*PLS": "{:number_format_roman:1:0}",
+"SR*PL": "{:number_format_roman:0:1}",
+"SR*PLS": "{:number_format_roman:1:1}",
+"T*PL": "{:number_format_insert:nn:nN:NN}",
+"T*F": "{:number_format_insert:X (XXn) NNN-NNNN}",
+"TKA*EUT": "{:number_format_insert:NNNN-NN-NN}",
+"TPH*URD": "{:number_word_conversion:0:2}",
+"KA*RD": "{:number_word_conversion:1:1:c1}",
+"O*RD": "{:number_word_conversion:2:1:c1}",
+"TKHR*": "{:retro_insert_currency:10:$}"
 }
+
