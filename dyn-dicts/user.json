@@ -1,5 +1,6 @@
 {
 "SKWRO*D": "Jod",
+"SKWROFPB": "json",
 "SPHOL": "smol",
 "SHEUPB/KAPB/SEPB": "Shinkansen",
 "SREPB/TPHUR": "veneur",
@@ -37,6 +38,10 @@
 "HRA*F/TKER": "Lavender",
 "HRAFBG/KAERB": "ElastiCache",
 "R/SEUPBG": "rsync",
+"*UFT/1-6": "UTF-16",
+"*UFT/23U": "UTF-32",
+"*UFT/3/2": "UTF-32",
+"*UFT/-8": "UTF-8",
 "EPBG": "eng",
 "UP/STRAOEPL": "upstream"
 }
