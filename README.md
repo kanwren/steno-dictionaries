@@ -25,3 +25,9 @@ Dictionary ordering:
 - `commands.json`
 - `main.json`
 
+Custom dictionaries:
+
+- [emily-modifiers](https://github.com/EPLHREU/emily-modifiers)
+- [emily-symbols](https://github.com/EPLHREU/emily-modifiers)
+- [jeff-phrasing](https://github.com/jthlim/jeff-phrasing)
+
